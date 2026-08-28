@@ -1,4 +1,4 @@
-# Brivon — Free HTML5 Photography Website Template
+# Lumina Studio Web template
 
 #### Preview
 
@@ -21,8 +21,7 @@ Design and code are completely written the HTML Design development team.
 
 ## License
 
- - Design and Code is Copyright &copy; <a href="https://html.design/" target="_blank">HTML Design</a>
+ - Designed and Coded by Engr. B-K <a href="https://html.design/" target="_blank">HTML Design</a>
  - Licensed under [MIT]
- - Distributed by <a href="https://themewagon.com/" target="_blank">ThemeWagon</a>
 # new-project
 # new-project
